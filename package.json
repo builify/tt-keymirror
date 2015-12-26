@@ -1,7 +1,7 @@
 {
   "name": "ttkeymirror",
   "version": "1.0.0",
-  "description": "",
+  "description": "README.md",
   "main": "dist/ttkeymirror.js",
   "scripts": {
     "precommit": "npm test && npm run build",
@@ -15,7 +15,17 @@
     "tdd-browser": "karma start"
   },
   "repository": "Trip-Trax/TTKeyMirror",
-  "keywords": [],
+  "keywords": [
+    "keymirror",
+    "react",
+    "trip-trax",
+    "ttkeymirror",
+    "mirror",
+    "key",
+    "array",
+    "object",
+    "object from array"
+  ],
   "files": [
     "dist",
     "src"
