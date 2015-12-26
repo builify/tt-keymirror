@@ -11,11 +11,11 @@ Issues can be resolved quickest if they are descriptive and include both a reduc
 ## Licence
 Licensed under the [MIT License](LICENSE) © Trip-Trax - 2015.
 
-[travis-url]: https://travis-ci.org/TheDeveloperXYZ/TTActionMirror
-[travis-image]: https://img.shields.io/travis/TheDeveloperXYZ/TTActionMirror.svg?style=flat-square
+[travis-url]: https://travis-ci.org/Trip-Trax/TTActionMirror
+[travis-image]: https://img.shields.io/travis/Trip-Trax/TTActionMirror.svg?style=flat-square
 
-[coveralls-url]: https://coveralls.io/r/TheDeveloperXYZ/TTActionMirror
-[coveralls-image]: https://img.shields.io/coveralls/TheDeveloperXYZ/TTActionMirror.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/r/Trip-Trax/TTActionMirror
+[coveralls-image]: https://img.shields.io/coveralls/Trip-Trax/TTActionMirror.svg?style=flat-square
 
-[depstat-url]: https://david-dm.org/TheDeveloperXYZ/TTActionMirror
-[depstat-image]: https://david-dm.org/TheDeveloperXYZ/TTActionMirror.svg?style=flat-square
+[depstat-url]: https://david-dm.org/Trip-Trax/TTActionMirror
+[depstat-image]: https://david-dm.org/Trip-Trax/TTActionMirror.svg?style=flat-square
