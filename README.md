@@ -51,3 +51,8 @@ Issues can be resolved quickest if they are descriptive and include both a reduc
 
 ## Licence
 Licensed under the [MIT License](LICENSE) © Trip-Trax - 2015.
+
+[![Build Status](https://img.shields.io/travis/Trip-Trax/TTKeyMirror.svg?style=flat-square)](https://travis-ci.org/Trip-Trax/TTKeyMirror)
+[![Coveralls Status](https://img.shields.io/coveralls/Trip-Trax/TTKeyMirror.svg?style=flat-square)](https://coveralls.io/r/Trip-Trax/TTKeyMirror)
+[![Dependency Status](https://david-dm.org/Trip-Trax/TTKeyMirror.svg?style=flat-square)(https://david-dm.org/Trip-Trax/TTKeyMirror)
+[![Code Climate](https://codeclimate.com/github/Trip-Trax/TTKeyMirror/badges/gpa.svg)](https://codeclimate.com/github/Trip-Trax/TTKeyMirror)
