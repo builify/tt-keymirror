@@ -3,14 +3,19 @@
 [![Coveralls Status][coveralls-image]][coveralls-url]
 [![Dependency Status][depstat-image]][depstat-url]
 
-# Licence
-MIT © [Trip-Trax](/LICENCE)
+## Contributions & Issues
+Contributions are welcome. Please clearly explain the purpose of the PR and follow the current style.
 
-[travis-url]: https://travis-ci.org/TheDeveloperXYZ/tester
-[travis-image]: https://img.shields.io/travis/TheDeveloperXYZ/tester.svg?style=flat-square
+Issues can be resolved quickest if they are descriptive and include both a reduced test case and a set of steps to reproduce.
 
-[coveralls-url]: https://coveralls.io/r/TheDeveloperXYZ/tester
-[coveralls-image]: https://img.shields.io/coveralls/TheDeveloperXYZ/tester.svg?style=flat-square
+## Licence
+Licensed under the [MIT License](LICENSE) © Trip-Trax - 2015.
 
-[depstat-url]: https://david-dm.org/TheDeveloperXYZ/tester
-[depstat-image]: https://david-dm.org/TheDeveloperXYZ/tester.svg?style=flat-square
+[travis-url]: https://travis-ci.org/TheDeveloperXYZ/TTActionMirror
+[travis-image]: https://img.shields.io/travis/TheDeveloperXYZ/TTActionMirror.svg?style=flat-square
+
+[coveralls-url]: https://coveralls.io/r/TheDeveloperXYZ/TTActionMirror
+[coveralls-image]: https://img.shields.io/coveralls/TheDeveloperXYZ/TTActionMirror.svg?style=flat-square
+
+[depstat-url]: https://david-dm.org/TheDeveloperXYZ/TTActionMirror
+[depstat-image]: https://david-dm.org/TheDeveloperXYZ/TTActionMirror.svg?style=flat-square
