@@ -14,7 +14,7 @@
     "tdd": "npm run test-server -- --watch",
     "tdd-browser": "karma start"
   },
-  "repository": "TheDeveloperXYZ/ttactionmirror",
+  "repository": "Trip-Trax/TTKeyMirror",
   "keywords": [],
   "files": [
     "dist",
