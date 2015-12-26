@@ -5,12 +5,12 @@ var plugins = minimize
   : [];
 
 module.exports = {
-  entry: './src/ttactionmirror.js',
+  entry: './src/ttkeymirror.js',
   output: {
     path: './dist',
-    filename: minimize ? 'ttactionmirror.min.js' : 'ttactionmirror.js',
+    filename: minimize ? 'ttkeymirror.min.js' : 'ttkeymirror.js',
     libraryTarget: 'umd',
-    library: 'TTActionMirror'
+    library: 'TTKeyMirror'
   },
   module: {
     loaders: [{

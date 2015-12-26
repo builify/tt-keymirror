@@ -3,13 +3,14 @@
 [![Coveralls Status][coveralls-image]][coveralls-url]
 [![Dependency Status][depstat-image]][depstat-url]
 
-> Based on array input, create an object with values equal to its key names or symbol. Inspired by `react/lib/keyMirror`
+> Based on array input, create an object with values equal to its key names or symbol. Inspired by `react/lib/keyMirror`.
 
-## Usage
+## Installation
 ```shell
 npm install ttkeymirror
 ```
 
+## Usage
 ```javascript
 import keyMirror from 'ttkeymirror';
 
@@ -19,7 +20,9 @@ const ACTIONS = keyMirror([
   'ACTION03'
 ]);
 
-const downloadData = ACTIONS.DOWNLOAD_DATA;
+const action01 = ACTIONS.ACTION01;
+const action02 = ACTIONS.ACTION02;
+const action03 = ACTIONS.ACTION03;
 ```
 
 If you want to use `Symbol`, simply add argument `true` after array.

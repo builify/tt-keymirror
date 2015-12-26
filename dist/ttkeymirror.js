@@ -4,9 +4,9 @@
 	else if(typeof define === 'function' && define.amd)
 		define([], factory);
 	else if(typeof exports === 'object')
-		exports["TTActionMirror"] = factory();
+		exports["TTKeyMirror"] = factory();
 	else
-		root["TTActionMirror"] = factory();
+		root["TTKeyMirror"] = factory();
 })(this, function() {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
@@ -54,17 +54,31 @@ return /******/ (function(modules) { // webpackBootstrap
 /* 0 */
 /***/ function(module, exports) {
 
-	"use strict";
+	'use strict';
 
-	Object.defineProperty(exports, "__esModule", {
+	Object.defineProperty(exports, '__esModule', {
 	  value: true
 	});
 
-	exports["default"] = function () {
-	  return true;
+	exports['default'] = function (arr) {
+	  var useSymbol = arguments.length <= 1 || arguments[1] === undefined ? false : arguments[1];
+
+	  var result = {};
+
+	  if (!(arr instanceof Array) && !Array.isArray(arr)) {
+	    throw new Error('keyMirror(...): Argument must be an array.');
+	  }
+
+	  for (var i = 0; i < arr.length; i++) {
+	    var key = arr[i];
+
+	    result[key] = useSymbol ? Symbol('' + key) : key;
+	  }
+
+	  return result;
 	};
 
-	module.exports = exports["default"];
+	module.exports = exports['default'];
 
 /***/ }
 /******/ ])
