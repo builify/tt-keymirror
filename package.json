@@ -1,8 +1,8 @@
 {
-  "name": "ttactionmirror",
+  "name": "ttkeymirror",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/ttactionmirror.js",
+  "main": "dist/ttkeymirror.js",
   "scripts": {
     "precommit": "npm test && npm run build",
     "build": "rimraf dist && webpack --no-minimize && webpack",
