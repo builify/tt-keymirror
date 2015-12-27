@@ -3,6 +3,7 @@
 [![Coveralls Status](https://img.shields.io/coveralls/Trip-Trax/TTKeyMirror.svg?style=flat-square)](https://coveralls.io/r/Trip-Trax/TTKeyMirror)
 [![Dependency Status](https://david-dm.org/Trip-Trax/TTKeyMirror.svg?style=flat-square)](https://david-dm.org/Trip-Trax/TTKeyMirror)
 [![Code Climate](https://codeclimate.com/github/Trip-Trax/TTKeyMirror/badges/gpa.svg)](https://codeclimate.com/github/Trip-Trax/TTKeyMirror)
+[![NPM Version](https://badge.fury.io/js/ttkeymirror.svg)](https://badge.fury.io/js/ttkeymirror)
 
 > Based on array input, create an object with values equal to its key names or symbol. Inspired by `react/lib/keyMirror`.
 
